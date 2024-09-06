@@ -1,4 +1,10 @@
-h1{
-  border-color: #d3e644;
-  border-style: dashed;
+#sender-column {
+  text-align: right;
+}
+
+.container {
+  width: 40%;
+  margin: 0 auto;
+  padding: 20px; 
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); 
 }
